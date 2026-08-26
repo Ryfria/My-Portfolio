@@ -8,10 +8,9 @@ import Projects from "./Pages/Projects";
 import Technologies from "./Pages/Technologies";
 function App() {
   return (
-    <Router>
+    <Router basename="/My-Portfolio">
       <Header />
       <Routes>
-        <Router basename="/My-Portfolio">
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
