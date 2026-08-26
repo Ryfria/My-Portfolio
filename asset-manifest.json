@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.0bf5a109.css",
-    "main.js": "/My-Portfolio/static/js/main.30557315.js",
+    "main.css": "/My-Portfolio/static/css/main.a0cb7f00.css",
+    "main.js": "/My-Portfolio/static/js/main.82ba88af.js",
     "static/media/Ryriaaa.png": "/My-Portfolio/static/media/Ryriaaa.e18423de8309c0eebbe8.png",
     "static/media/mikrotik.png": "/My-Portfolio/static/media/mikrotik.92ab4a95f7e72aec073a.png",
     "static/media/winbox.png": "/My-Portfolio/static/media/winbox.2cc0b22c2a951a32bc8a.png",
@@ -17,11 +17,11 @@
     "static/media/python.png": "/My-Portfolio/static/media/python.82fcc73e3571f04050a6.png",
     "static/media/ryfrialogo.svg": "/My-Portfolio/static/media/ryfrialogo.0302e4fca6ab6cab5c8653871c687e12.svg",
     "index.html": "/My-Portfolio/index.html",
-    "main.0bf5a109.css.map": "/My-Portfolio/static/css/main.0bf5a109.css.map",
-    "main.30557315.js.map": "/My-Portfolio/static/js/main.30557315.js.map"
+    "main.a0cb7f00.css.map": "/My-Portfolio/static/css/main.a0cb7f00.css.map",
+    "main.82ba88af.js.map": "/My-Portfolio/static/js/main.82ba88af.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bf5a109.css",
-    "static/js/main.30557315.js"
+    "static/css/main.a0cb7f00.css",
+    "static/js/main.82ba88af.js"
   ]
 }
