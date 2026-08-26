@@ -6,11 +6,11 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href="https://www.instagram.com/aristls22_/"
+          href="https://www.instagram.com/arisstls_/"
           target="_blank"
           rel="noreferrer noopener"
         >
-          aristls22_
+          My Instagram
         </a>{" "}
         with
         <span className="text-gradient font-medium"> IT Enthusiast</span> &
