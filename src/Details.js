@@ -53,7 +53,7 @@ export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/aris-toteles",
   github: "https://github.com/Ryfria",
   twitter: "https://twitter.com/SouoRyria",
-  instagram: "https://www.instagram.com/aristls22_/",
+  instagram: "https://www.instagram.com/arisstls_/",
 };
 
 // Enter your Work Experience here
